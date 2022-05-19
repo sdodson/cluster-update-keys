@@ -1,7 +1,12 @@
 approvers:
-- abhinavdahiya
 - smarterclayton
+- deads2k
+- sdodson
+- bparees
+- dhellmann
 reviewers:
-- abhinavdahiya
 - smarterclayton
+- deads2k
+- dhellmann
+- bparees
 - wking
